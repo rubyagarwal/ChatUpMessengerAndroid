@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstantMessaging</string>
+    <string name="buttonPicture">Image</string>
+    <string name="buttonVideo">Video</string>
+    <string name="buttonContract">Contract</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">ChatUpMedia</string>
+    <string name="newFileName">UntitledContract</string>
+    <string name="onSaveMessage">File Saved</string>
+
+
+
+</resources>

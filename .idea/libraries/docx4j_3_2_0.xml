@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="docx4j-3.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/imLibs/docx4j-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

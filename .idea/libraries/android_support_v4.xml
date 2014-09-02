@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="android-support-v4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/imLibs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imLibs/commons-cli-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imLibs/commons-io-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imLibs/jackson-all-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imLibs/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imLibs/rabbitmq-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imLibs/rabbitmq-client-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

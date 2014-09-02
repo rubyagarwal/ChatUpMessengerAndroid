@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:weightSum="1">
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter your user name:"
+            android:layout_weight="0.04"
+            android:textSize="25dp" android:id="@+id/textView" android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true" android:layout_marginTop="39dp"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:text=""
+            android:ems="10"
+            android:id="@+id/signUpUser"
+            android:layout_marginTop="41dp" android:layout_below="@+id/textView" android:layout_alignParentLeft="true"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:id="@+id/loginButton"
+            android:layout_alignTop="@+id/signUpUser" android:layout_toRightOf="@+id/signUpUser"
+            android:layout_marginLeft="41dp"/>
+
+</RelativeLayout>
+
